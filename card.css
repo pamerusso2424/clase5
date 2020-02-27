@@ -1,0 +1,62 @@
+.container{
+padding: 35px;
+margin-left: 10%;
+}
+
+.card{
+    border-radius: 5px;
+    box-shadow: 0 0 5px #333;
+    height: 550px;
+    overflow: hidden;
+    width: 350px;
+
+
+}
+
+.header-img{
+    
+    max-width: 40%;
+    vertical-align: middle;
+    max-width: 300px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #333;
+    height: 150px;
+    overflow: hidden;
+    vertical-align: auto;
+    margin: 20px auto;
+    margin-left: 10%;
+    padding: 1px auto;
+    border: 1px auto;
+}
+
+}
+
+.artist-name{
+    margin-top: 1px;
+}
+
+.card-content{
+    padding:5px;
+    text-align: center;
+        
+}
+
+.footer-link{
+
+    max-width: 300px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #333;
+    height: 100px;
+    overflow: hidden;
+    vertical-align: auto;
+    margin-left: 18%;
+    margin-bottom: 50%;
+    align-content: 50% center;
+
+}
+
+.padre{
+
+    margin: 50px auto;
+    
+}
